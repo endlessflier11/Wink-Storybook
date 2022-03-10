@@ -1,0 +1,12 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.documentSelectors": [
+        "**/*."
+    ],
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "editor.tabSize": 2,
+    "[xml]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    },
+}

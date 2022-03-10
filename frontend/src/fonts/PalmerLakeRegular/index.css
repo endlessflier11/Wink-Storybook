@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'PalmerLakeRegular';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PalmerLakeRegular'),
+    url('./PalmerLakePrint-Regular.ttf') format('truetype');
+}

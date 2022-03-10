@@ -1,0 +1,32 @@
+{
+  "name": "winkapi",
+  "version": "1.0.0",
+  "description": "curated-for-you wink/shopify api",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curated",
+    "curated-for-you",
+    "wink",
+    "shopify",
+    "api"
+  ],
+  "author": "patrick@dearduck.com",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.803.0",
+    "express": "^4.17.1",
+    "express-promise-router": "^4.0.1",
+    "handlebars": "^4.7.6",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "mongodb": "^3.6.3",
+    "neo4j-driver": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^8.5.0",
+    "chalk": "^4.1.0"
+  }
+}

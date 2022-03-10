@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'KalistaScriptRegular';
+  font-style: normal;
+  font-weight: 400;
+  src: local('KalistaScriptRegular'),
+    url('./kalista-script-regular.ttf') format('truetype');
+}
